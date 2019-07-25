@@ -8,11 +8,6 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 
-
-/**
- * @author UC San Diego Intermediate MOOC team
- *
- */
 public class NearbyWords implements SpellingSuggest {
 	// THRESHOLD to determine how many words to look through when looking
 	// for spelling suggestions (stops prohibitively long searching)
