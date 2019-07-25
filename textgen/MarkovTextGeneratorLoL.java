@@ -1,15 +1,10 @@
 package textgen;
-//https://www.coursera.org/learn/data-structures-optimizing-performance/discussions/weeks/4/threads/D4bd1Kw9EemB9BKjLxc2xA
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Random;
 import java.util.regex.*;
 
-/** 
-* An implementation of the MTG interface that uses a list of lists.
-* @author UC San Diego Intermediate Programming MOOC team 
-*/
 public class MarkovTextGeneratorLoL implements MarkovTextGenerator {
 
 	// The list of words with their next words
