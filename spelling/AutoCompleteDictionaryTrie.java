@@ -11,11 +11,7 @@ import java.util.Set;
 //import java.util.HashSet;
 import java.util.LinkedList;
 
-/** 
- * An trie data structure that implements the Dictionary and the AutoComplete ADT
- * @author You
- *
- */
+
 public class AutoCompleteDictionaryTrie implements  Dictionary, AutoComplete {
 
     private TrieNode root;
