@@ -3,10 +3,7 @@
  */
 package spelling;
 
-/**
- * @author Christine
- *
- */
+
 public interface Dictionary {
 	/** Add this word to the dictionary.
 	 * @param word The word to add
