@@ -7,10 +7,6 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * @author UC San Diego MOOC team
- *
- */
 public class MyLinkedListTester {
 
 	private static final int LONG_LIST_LENGTH =10; 
