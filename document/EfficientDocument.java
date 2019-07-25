@@ -2,13 +2,7 @@ package document;
 
 import java.util.List;
 
-/** 
- * A class that represents a text document
- * It does one pass through the document to count the number of syllables, words, 
- * and sentences and then stores those values.
- * 
- * @author UC San Diego Intermediate Programming MOOC team
- */
+
 public class EfficientDocument extends Document {
 
 	private int numWords;  // The number of words in the document
