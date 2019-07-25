@@ -1,6 +1,6 @@
 # smart-text-editor
 this is smart-text-editor with some of technologies such as :
-1. 
+ 
 
 # flesch code generator : 
                   it will generate flesch code of data .
