@@ -2,10 +2,7 @@ package spelling;
 
 import java.util.TreeSet;
 
-/**
- * @author UC San Diego Intermediate MOOC team
- *
- */
+
 public class DictionaryBST implements Dictionary 
 {
    private TreeSet<String> dict;
