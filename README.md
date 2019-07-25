@@ -18,3 +18,5 @@ this is smart-text-editor with some of technologies such as :
             of that i have used datastuctures(trees).
 
 # to see this functioning , i will strongly recommend you to use eclipse ide along with javafx installed.
+
+# to run the editor : run application -> MainApp.java
