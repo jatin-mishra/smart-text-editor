@@ -1,2 +1,18 @@
 # smart-text-editor
-this is smart-text-editor with some of technologies such as it will suggest a list for autocompletion , it will suggest for correction(autocorrection)  and much more....)
+this is smart-text-editor with some of technologies such as :
+1. 
+
+# flesch code generator : 
+                  it will generate flesch code of data .
+                  in simpler terms it is a measure of how easy your text is (to understand )? 
+#  markov text generator :
+                (it generates the text depending on how good you train it).   
+
+# autocompletion
+ 
+ 
+# autocorrect :
+              (implies that it will show a list of misspelled words in the text and their right substitutions )
+# edit distance :
+            which you tell you : in how many steps you can change word_one into another_word and most exciting thing is , it will show you             whole path that you get into another_word from first. i implemented  this without using dynamic programming algorithm , instead
+            of that i have used datastuctures(trees).
