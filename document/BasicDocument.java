@@ -6,10 +6,7 @@ package document;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/** 
- * A naive implementation of the Document abstract class. 
- * @author UC San Diego Intermediate Programming MOOC team
- */
+
 public class BasicDocument extends Document 
 {
 	/** Create a new BasicDocument object
