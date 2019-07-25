@@ -1,10 +1,6 @@
 package textgen;
 
-/**
- *  The interface for the MarkovTextGenerator
- *  @author UC San Diego Intermediate Programming MOOC team
- *  
- */
+
 public interface MarkovTextGenerator {
 	
 	/** Train the generator by adding the sourceText */
