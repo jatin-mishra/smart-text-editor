@@ -1,5 +1,5 @@
 # smart-text-editor
-this is smart-text-editor with some of technologies such as :
+this is smart-text-editor with some of functionalities such as :
  
 
 # flesch code generator : 
